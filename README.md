@@ -1,2 +1,7 @@
 # sul
-Ini adalah script sul apa itu sul?sul == SMS Unlimited awokawokawkka :v
+Penggunaan : \
+$pkg install python\
+$pip install requests\
+$git clone (URL ini)\
+$cd sul\
+$python sul
