@@ -4,4 +4,4 @@ $pkg install python\
 $pip install requests\
 $git clone (URL ini)\
 $cd sul\
-$python sul
+$python sul.py
